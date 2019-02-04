@@ -1,0 +1,63 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jss" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/moment-timezone" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/prop-types" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-jss" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/redux-mock-store" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="prop-types-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_prop-types_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-addons-shallow-compare-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react-addons-shallow-compare_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-addons-test-utils-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react-addons-test-utils_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-datepicker-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react-datepicker_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-DefinitelyTyped" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_global.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

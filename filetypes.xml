@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".eslinrc" type="JSON" />
+      <mapping pattern="localStorageMiddleware.js" type="JavaScript" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="i18nTools.js" type="PLAIN_TEXT" />
+      <mapping pattern="apiErrorMiddleware.js" type="PLAIN_TEXT" />
+      <mapping pattern="DatePickerLabel.jsx" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping pattern="docker/Dockerfile" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
