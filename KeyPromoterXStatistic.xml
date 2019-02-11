@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>106</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -23,6 +23,14 @@
           <ShortCut>'Supprimer'</ShortCut>
           <Description>Delete...</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+Maj+8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -161,6 +169,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Test errorConsoleLoggerMiddleware.should always pass action to next middleware and return next result'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test errorConsoleLoggerMiddleware.should always pass action to next middleware and return next result'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Test table redux module.test actions.should return an action to set up number of log per page '">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -254,7 +270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -422,7 +438,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All Tests'">
@@ -446,7 +462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
     </option>
