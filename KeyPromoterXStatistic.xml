@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>102</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -175,6 +175,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Test the APiMiddleware Error redux middleware definitions.Should react to HttpError action'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Test the APiMiddleware Error redux middleware definitions.Test the APiError manager.Should manage 403 errors by calling the replace action from router to go on 403 page'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test the APiMiddleware Error redux middleware definitions.Test the APiError manager.Should manage 403 errors by calling the replace action from router to go on 403 page'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test theme.Test mui theme base options'">
@@ -438,7 +446,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
     </option>
