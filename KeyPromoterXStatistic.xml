@@ -22,7 +22,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Supprimer'</ShortCut>
           <Description>Delete...</Description>
-          <Count>19</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
