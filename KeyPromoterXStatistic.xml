@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>430</Count>
+          <Count>431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -159,6 +159,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Test &lt;ApplicationLoader /&gt;'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Test &lt;ApplicationLoader /&gt;.Test  &lt;applicationLoader /&gt; redux connected component.should render connected props'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test &lt;ApplicationLoader /&gt;.Test  &lt;applicationLoader /&gt; redux connected component.should render connected props'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Test ApiRequestErrorDefinitions class'">
